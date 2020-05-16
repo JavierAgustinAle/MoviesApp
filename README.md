@@ -1,6 +1,5 @@
 # MoviesApp
-Primer aplicacion hecha con Ionic 4 y Angular.
+Aplicacion hecha con Ionic 4 y Angular consumiento la API IMDBApi.
 
- La aplicacion trae informacion de la API ImdbApi. Nos permite buscar series,
-peliculas o juegos y ver mas informacion sobre los mismos (Ej, Año de lanzamiento,
-Director,Reparto,etc).
+ En esta aplicacion el usuario puede buscar dentro de un catalogo de peliculas, juegos y series seleccionar su favorita y ver la sinopsis, 
+los actores de la misma, su calificacion y una el poster de la misma.
